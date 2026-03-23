@@ -1,73 +1,57 @@
-<h1 align="center">⚡ TU_NOMBRE ⚡</h1>
-<p align="center">Full Stack Developer · Cyberpunk Vibes</p>
+<div style="background-color:#0d0d0d; padding: 20px; border-radius: 10px; color:#fff; font-family: monospace;">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-online-00ffcc?style=flat-square" />
-  <img src="https://img.shields.io/badge/focus-building_projects-ff00ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/stack-full--stack-00ccff?style=flat-square" />
-</p>
+<h1 align="center" style="color:#ff00ff;">⚡ TU_NOMBRE ⚡</h1>
+<p align="center" style="color:#cc00ff;">Full Stack Developer · Cyberpunk Vibes</p>
 
----
+<hr style="border:1px solid #ff0066;" />
 
-## 🧠 About me
-
-```txt
+<h2 style="color:#ff33cc;">🧠 About me</h2>
+<pre style="color:#ff66ff;">
 > Full Stack Developer
 > Based in Spain
-> Building web apps, APIs & scalable systems
-> Always learning & improving
-```
+> Building futuristic web apps & scalable systems
+> Always leveling up
+</pre>
 
----
+<hr style="border:1px solid #ff0066;" />
 
-## ⚙️ Tech Stack
+<h2 style="color:#ff33cc;">⚙️ Tech Stack</h2>
 
-### Languages
-```
-HTML · CSS · JavaScript · Python · C# · C++ · Java · PHP
-```
+<b style="color:#ff4dff;">Languages:</b> HTML · CSS · JavaScript · Python · C# · C++ · Java · PHP  
+<b style="color:#ff4dff;">Frameworks:</b> React · Angular · Next.js · Node.js · Spring Boot · Laravel  
+<b style="color:#ff4dff;">Tools & Platforms:</b> Visual Studio · MySQL · Docker · AWS · Git · Linux  
 
-### Frameworks
-```
-React · Angular · Next.js · Node.js · Spring Boot · Laravel
-```
+<hr style="border:1px solid #ff0066;" />
 
-### Tools
-```
-Visual Studio · MySQL · Docker · AWS · Git · Linux
-```
-
----
-
-## 📊 Stats
-
+<h2 style="color:#ff33cc;">📊 Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablocr43&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff00ff&icon_color=ff3399" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocr43&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff00ff&text_color=ff66ff" />
 </p>
 
----
+<hr style="border:1px solid #ff0066;" />
 
-## 🚀 Projects
+<h2 style="color:#ff33cc;">🚀 Projects</h2>
+<ul style="color:#ff66ff;">
+<li>⚡ <b>Project 1</b> — brief description</li>
+<li>🧠 <b>Project 2</b> — brief description</li>
+<li>🔥 <b>Project 3</b> — brief description</li>
+</ul>
 
-- ⚡ Project 1 — link
-- 🧠 Project 2 — link
-- 🔥 Project 3 — link
+<hr style="border:1px solid #ff0066;" />
 
----
+<h2 style="color:#ff33cc;">🌐 Contact</h2>
+<pre style="color:#ff66ff;">
+📧 Email: tuemail@email.com
+💼 LinkedIn: linkedin.com/in/tuusuario
+</pre>
 
-## 🌐 Contact
+<hr style="border:1px solid #ff0066;" />
 
-```
-Email: tuemail@email.com
-LinkedIn: linkedin.com/in/tuusuario
-```
+<h2 style="color:#ff33cc;">⚡ Quote</h2>
+<p style="color:#ff66ff;">"Code like a hacker. Think like a rebel. Build the future."</p>
 
----
-
-## ⚡ Quote
-
-> "Stay sharp. Code faster. Think deeper."
+</div>
