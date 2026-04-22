@@ -6,11 +6,11 @@
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en: **[tu proyecto actual]**
-- 🌱 Aprendiendo: **[tecnologías actuales]**
+- 🔭 Actualmente trabajando en: FurySurge
+- 🌱 Aprendiendo: C# , integracion de IAs
 - 💡 Me interesa: desarrollo web, backend, IA y automatización
 - ⚡ Me gusta construir proyectos útiles y mejorar constantemente
-- 📫 Contacto: **[tu email o redes]**
+- 📫 Contacto: pacasru@gmail.com
 
 ---
 
