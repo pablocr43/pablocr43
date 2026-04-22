@@ -67,9 +67,8 @@
 
 ## 📌 Proyectos destacados
 
-- 🚀 [Proyecto 1](https://github.com/tuusuario/proyecto1)
-- 💡 [Proyecto 2](https://github.com/tuusuario/proyecto2)
-- ⚙️ [Proyecto 3](https://github.com/tuusuario/proyecto3)
+- 🚀 [FurySurge](https://github.com/pablocr43/FurySurgePHP)
+
 
 ---
 
